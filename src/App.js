@@ -2,6 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const A = 12;
+
+  console.log("A is:",A);
+
   return (
     <div className="App">
       <header className="App-header">
@@ -15,8 +19,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn ReactBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
         </a>
+        <span>KOKOKOKOKOKOKO</span>
       </header>
     </div>
   );

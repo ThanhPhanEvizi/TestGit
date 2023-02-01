@@ -21,6 +21,7 @@ function App() {
         >
           Learn ReactBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
         </a>
+        <span>Checkout Test2</span>
         <span>KOKOKOKOKOKOKO</span>
       </header>
     </div>

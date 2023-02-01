@@ -18,6 +18,7 @@ function App() {
         >
           Learn React2222222222222222222222222222222
         </a>
+        <span>KOKOKOKOKOKOKO</span>
       </header>
     </div>
   );

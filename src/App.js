@@ -21,7 +21,7 @@ function App() {
         >
           as
         </a>
-        <span>KOKOKOKdsaldmldsadOKasOKOKO</span>
+        <span>KOKOKOKdsaldmldsadOKasOKOđáKO</span>
       </header>
     </div>
   );

@@ -5,7 +5,7 @@ function App() {
   const A = 12;
 
   console.log("A is:",A);
-  
+  console.log("hihihiihi")
 
   return (
     <div className="App">

@@ -3,9 +3,11 @@ import './App.css';
 
 function App() {
   const A = 12;
-
+  const B = 15;
   console.log("A is:",A);
-  console.log("hihihiihi")
+  console.log("hihihiihi");
+  console.log("hihi:",B);
+
 
   return (
     <div className="App">

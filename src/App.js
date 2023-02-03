@@ -19,9 +19,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn ReactBBBBBBBBBadsBBBBBBBBBBBBBBBBBBBB
+          as
         </a>
-        <span>KOKOKOKOKOKOKO</span>
+        <span>KOKOKOKdsaldmldsadOKasOKOđáKO</span>
       </header>
     </div>
   );

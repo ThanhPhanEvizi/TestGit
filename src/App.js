@@ -3,7 +3,6 @@ import './App.css';
 
 function App() {
   const A = 12;
-  const B = 13;
   console.log("A is:",A);
   console.log("B is:",B);
   return (
